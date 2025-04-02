@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "67ed87f7f17b506e19e94a2e"
+  },
+  "name": "Rajesh Gupta",
+  "address": "Delhi, India",
+  "lat": 28.7041,
+  "lng": 77.1025
+},
+{
+  "_id": {
+    "$oid": "67ed8859f17b506e19e94a30"
+  },
+  "name": "Chirag Chaudhary",
+  "address": "Gujarat, India",
+  "lat": 26.0426,
+  "lng": 76.5125
+},
+{
+  "_id": {
+    "$oid": "67ed8a09f17b506e19e94a32"
+  },
+  "name": "Meet Raithatha",
+  "address": "Gandhinagar, India",
+  "lat": 32.8496,
+  "lng": 69.6969
+},
+{
+  "_id": {
+    "$oid": "67ed8ad4f17b506e19e94a34"
+  },
+  "name": "Devshree Gohel",
+  "address": "Junahadh, India",
+  "lat": 28.6969,
+  "lng": 74.3105
+},
+{
+  "_id": {
+    "$oid": "67ed8b7cf17b506e19e94a36"
+  },
+  "name": "Vatsal Chaugan",
+  "address": "Uttrakhand, India",
+  "lat": 25.6102,
+  "lng": 74.251
+}]
